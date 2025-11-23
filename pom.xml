@@ -60,7 +60,7 @@
                 <module>cloud-content</module>
                 <module>cloud-storage</module>
                 <module>content</module>
-                <module>content-review</module>
+                <!-- <module>content-review</module> -->
                 <module>dashboard</module>
                 <module>dav</module>
                 <module>delegatedaccess</module>
@@ -102,7 +102,7 @@
                 <module>rubrics</module>
                 <module>rwiki</module>
                 <module>tags</module>
-                <module>samigo</module>
+                <!-- <module>samigo</module> -->
                 <module>scormplayer</module>
                 <module>search</module>
                 <module>sections</module>
@@ -111,7 +111,7 @@
                 <module>signup</module>
                 <module>site</module>
                 <module>site-manage</module>
-                <module>sitestats</module>
+                <!-- <module>sitestats</module> -->
                 <module>syllabus</module>
                 <module>taggable</module>
                 <module>textarea</module>
