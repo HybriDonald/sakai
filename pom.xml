@@ -307,7 +307,7 @@
                 <module>help/help</module>
                 <module>kernel/api</module>
                 <module>kernel/kernel-storage-util</module>
-                <module>kernel/sakai-kernel-util</module>
+                <module>kernel/kernel-util</module>
                 <module>mailarchive/mailarchive-api/api</module>
                 <module>message/message-api/api</module>
                 <module>plus/api</module>
